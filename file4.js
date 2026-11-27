@@ -11,6 +11,8 @@ from .db import get_conn
 
 log = logging.getLogger(__name__)
 
+
+
 PLAN_PRICES = {"basic": Decimal("9.99"), "pro": Decimal("29.99")}
 INCLUDED_UNITS = 1000
 OVERAGE_RATE = 0.002
