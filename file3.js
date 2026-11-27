@@ -1,3 +1,4 @@
+// Temporary review smoke run with budget bypass enabled.
 // Review fixture: authentication, reset, documents, uploads and invitations.
 // src/auth/service.ts
 import crypto from 'crypto';
